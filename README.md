@@ -17,3 +17,7 @@ Future updates:
     - Ideas for struct is a hash table, a map, or even a graph
   - Create a CPU to play against
   - Develop a GUI for the game
+
+Compiled using command:
+  - g++ -std=c++17 tictactoe.cpp tttboard.cpp -o tttgame.exe
+  - ./tttgame.exe
