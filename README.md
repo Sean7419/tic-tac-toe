@@ -21,7 +21,7 @@ Future updates:
     - Ideas for struct is a hash table, a map, or even a graph
   - Create a CPU to play against
   - Develop a GUI for the game
-  - Personal: The C++ code will follow a different format and better commenting style (Doxygen)
+  - __Personal: The C++ code will follow a different format and better commenting style (Doxygen)__
 
 Time Line:
   - TicTacToeBoard struct and main function:
